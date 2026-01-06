@@ -93,9 +93,7 @@ Vizsgaremekünk egy olyan webapplikáció, amely modern formában mutatja be Mag
 Közös célunk egy igényes, jól működő és látványos weboldal létrehozása, amely méltó módon képviseli hazánk gasztronómiai értékeit.
 
 **Készítők:**
-Benedek Dávid
-Benedek Dávid
+Almássy Benedek Solt
+Dorfinger Dávid
 
----
 
-Ha szeretnéd, át tudom írni **kicsit hivatalosabbra**, vagy **egyszerűbb, tanulóbarát stílusra** is.
