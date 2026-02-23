@@ -209,7 +209,7 @@ ALTER TABLE `bookings`
 ALTER TABLE `messages`
   ADD PRIMARY KEY (`id`),
   ADD KEY `sender_id` (`sender_id`),
-  ADD KEY `receiver_id` (`receiver_id`);
+  ;
 
 --
 -- A tábla indexei `password_resets`
@@ -218,7 +218,7 @@ ALTER TABLE `password_resets`
   ADD PRIMARY KEY (`id`),
   ADD UNIQUE KEY `token` (`token`),
   ADD KEY `user_id` (`user_id`),
-  ADD KEY `requested_by` (`requested_by`);
+;
 
 --
 -- A tábla indexei `tours`
