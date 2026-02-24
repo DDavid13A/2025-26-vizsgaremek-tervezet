@@ -185,8 +185,8 @@ const Header = () => {
             <ul>
               <li><Link to="/">Főoldal</Link></li>
               <li><Link to="/tours">Túrák</Link></li>
-              <li><Link to="#about">Rólunk</Link></li>
-              <li><Link to="#contact">Kapcsolat</Link></li>
+              <li><Link to="/about">Rólunk</Link></li>
+              <li><Link to="/contact">Kapcsolat</Link></li>
             </ul>
           </nav>
 

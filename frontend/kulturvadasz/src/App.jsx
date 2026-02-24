@@ -9,6 +9,8 @@ import BookingDetailPage from './pages/BookingDetailPage';
 import LoginPage from './pages/LoginPage';
 import RegisterPage from './pages/RegisterPage';
 import ProfilePage from './pages/ProfilePage';
+import ContactPage from './pages/ContactPage';
+import AboutPage from './pages/AboutPage';
 import './App.css';
 
 function App() {
@@ -25,6 +27,8 @@ function App() {
             <Route path="/login" element={<LoginPage />} />
             <Route path="/register" element={<RegisterPage />} />
             <Route path="/profile" element={<ProfilePage />} />
+            <Route path="/contact" element={<ContactPage />} />
+            <Route path="/about" element={<AboutPage />} />
           </Routes>
         </div>
       </AuthProvider>
